@@ -27,7 +27,7 @@ priyanshgupta0-typescript\_template\_nodejs/
 ├── index.ts          # Root route
 └── userRoutes.ts     # User-related routes
 
-````
+```
 
 ---
 
@@ -38,7 +38,7 @@ priyanshgupta0-typescript\_template\_nodejs/
 ```bash
 git clone https://github.com/priyanshgupta0/priyanshgupta0-typescript_template_nodejs.git
 cd priyanshgupta0-typescript_template_nodejs
-````
+```
 
 ### 2. Install dependencies
 
@@ -78,22 +78,22 @@ npm start
 
 ## 📦 Built With
 
-* [TypeScript](https://www.typescriptlang.org/)
-* [Express](https://expressjs.com/)
-* [Mongoose](https://mongoosejs.com/)
-* [dotenv](https://github.com/motdotla/dotenv)
-* [ts-node-dev](https://github.com/wclr/ts-node-dev)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [dotenv](https://github.com/motdotla/dotenv)
+- [ts-node-dev](https://github.com/wclr/ts-node-dev)
 
 ---
 
 ## 🛠 Features
 
-* Express server with TypeScript
-* Environment variable support
-* MongoDB integration with Mongoose
-* Layered architecture (Routes, Controllers, Models, Middleware)
-* Hot-reloading in development
-* Strict typing enabled
+- Express server with TypeScript
+- Environment variable support
+- MongoDB integration with Mongoose
+- Layered architecture (Routes, Controllers, Models, Middleware)
+- Hot-reloading in development
+- Strict typing enabled
 
 ---
 
@@ -109,10 +109,16 @@ npm start
 
 ## 🧪 API Structure (Sample)
 
-* `GET /api/users` – Get all users
-* `POST /api/users` – Create a new user
+- `GET /api/users` – Get all users
+- `POST /api/users` – Create a new user
 
 You can expand this further in the `controllers` and `routes` directories.
+
+---
+
+## 📄 License
+
+This project is licensed under the [ISC License](LICENSE).
 
 ---
 
