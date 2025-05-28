@@ -116,12 +116,6 @@ You can expand this further in the `controllers` and `routes` directories.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [ISC License](LICENSE).
-
----
-
 ## ✍️ Author
 
 **Priyansh Gupta**
@@ -132,8 +126,3 @@ This project is licensed under the [ISC License](LICENSE).
 ## 🙏 Contributions
 
 Contributions are welcome! Feel free to fork the repository, submit issues, and create pull requests.
-
-```
-
-Let me know if you'd like to include usage examples, API docs, or deployment instructions too!
-```
