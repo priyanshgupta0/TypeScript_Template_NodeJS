@@ -1,4 +1,3 @@
-```markdown
 # 🧰 TypeScript Node.js Template
 
 A minimal and clean boilerplate to kickstart your Node.js backend projects using TypeScript. This setup includes essential tools and a scalable folder structure with features like routing, middleware, controller logic, MongoDB integration via Mongoose, and environment-based configurations.
