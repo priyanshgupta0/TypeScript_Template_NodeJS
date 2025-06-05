@@ -1,5 +1,5 @@
 {
-  "name": "typescript_template",
+  "name": "backend-app-typescript-template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,10 +7,16 @@
     "dev": "ts-node-dev --respawn index.ts",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "express",
+    "template",
+    "nodejs",
+    "boilerplate",
+    "typescript"
+  ],
+  "author": "Priyansh Gupta",
   "license": "ISC",
-  "description": "",
+  "description": "A reusable Express.js app boilerplate template using TypeScript",
   "dependencies": {
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
